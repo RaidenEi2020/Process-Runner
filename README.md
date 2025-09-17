@@ -15,3 +15,5 @@ To run, execute the following commands:
 ```bash
 sbt fastLinkJS
 sbt server/run
+```
+And then open the file `lib/tool/index.html`
