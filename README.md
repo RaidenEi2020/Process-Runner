@@ -6,7 +6,7 @@ Process Runner is a simple program developed to illustrate the functionality of 
 
 - Scala version 3
 - Scala Build Tool (sbt)
-- Java Runtime Environment
+- Java Runtime Environment (JRE)
 
 ## How to run
 
