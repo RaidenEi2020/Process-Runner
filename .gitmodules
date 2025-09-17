@@ -1,0 +1,6 @@
+[submodule "lib/caos"]
+	path = lib/caos
+	url = https://github.com/RaidenEi2020/caos.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/RaidenEi2020/Server.git
