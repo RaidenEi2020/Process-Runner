@@ -1,6 +1,6 @@
 # Process-Runner
 
-Process Runner is a simple program developed to ilustrate the funtionality of CAOS's extention. 
+Process Runner is a simple program developed to illustrate the functionality of CAOS's extension.
 
 ## Requirements
 
@@ -12,6 +12,6 @@ Process Runner is a simple program developed to ilustrate the funtionality of CA
 
 To run, execute the following commands:
 
+```bash
 sbt fastLinkJS
 sbt server/run
-
