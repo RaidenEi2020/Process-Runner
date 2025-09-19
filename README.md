@@ -13,6 +13,7 @@ Process Runner is a simple program developed to illustrate the functionality of 
 To run, execute the following commands:
 
 ```bash
+git submodule update --init
 sbt fastLinkJS
 sbt server/run
 ```
