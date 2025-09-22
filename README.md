@@ -17,4 +17,4 @@ git submodule update --init
 sbt fastLinkJS
 sbt server/run
 ```
-And then open the file `lib/tool/index.html`
+And then open the file `lib/caos/tool/index.html`
